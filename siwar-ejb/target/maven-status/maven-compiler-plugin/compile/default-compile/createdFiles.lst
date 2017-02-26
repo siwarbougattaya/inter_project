@@ -1,0 +1,13 @@
+tn\esprit\siwar\services\TodoServiceRemote.class
+tn\esprit\siwar\persistence\Utilisateur.class
+tn\esprit\siwar\services\MessageServiceRemote.class
+tn\esprit\siwar\services\UtilisateurServiceRemote.class
+tn\esprit\siwar\persistence\Message.class
+tn\esprit\siwar\services\TodoService.class
+tn\esprit\siwar\services\UtilisateurService.class
+tn\esprit\siwar\services\MessageService.class
+tn\esprit\siwar\services\TodoServiceLocal.class
+tn\esprit\siwar\services\UtilisateurServiceLocal.class
+tn\esprit\siwar\util\DBPopulator.class
+tn\esprit\siwar\persistence\Todo.class
+tn\esprit\siwar\services\MessageServiceLocal.class
